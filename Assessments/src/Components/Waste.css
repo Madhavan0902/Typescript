@@ -1,0 +1,91 @@
+table{
+    width: 50%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+th{
+    background-color: lightgreen;
+    padding: 10px;
+}
+td{
+    background-color: lightblue;
+    padding: 10px;
+    text-align: center;
+    border-radius: 0px;
+    border: 1px solid black;
+    font-weight: bold;
+    font-size: 15px;
+}
+tr:nth-child(even){
+    background-color: lightgray;
+}
+td:hover{
+    background-color: lightgreen;
+    cursor: pointer;
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+}
+button{
+    width: 100px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    background-color: lightgreen;
+    cursor: pointer;
+}
+button:hover{
+    background-color: lightblue;
+}
+form{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: lightblue;
+    border: 1px solid gray;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.search{
+   align-items: center;
+   text-align: center;
+   margin: auto;
+   margin-top: 20px;
+   border-collapse: collapse;
+   width: 40%;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-color: rgb(204, 209, 211);
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+input{
+    border-radius: 5px;
+    border: 1px solid gray;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    background-color: lightgreen;
+    cursor: pointer;
+    width: 50%;
+}

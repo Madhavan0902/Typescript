@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": "",
+      "FacilityId": "124",
+      "Location": "Tambaram ",
+      "Capacity": "2 kg",
+      "WasteTypeHandled": "Vegetable",
+      "OperatingHours": "5.00"
+    }
+  ]
+}
